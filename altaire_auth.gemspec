@@ -9,9 +9,7 @@ Gem::Specification.new do |s|
   s.version     = AltaireAuth::VERSION
   s.authors     = ["Nathan Baum"]
   s.email       = ["nathan.baum@altaire.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of AltaireAuth."
-  s.description = "TODO: Description of AltaireAuth."
+  s.summary     = "Authentication, isn't it?"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
